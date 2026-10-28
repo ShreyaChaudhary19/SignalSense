@@ -1,0 +1,51 @@
+﻿# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Generated SUMO outputs
+*.log
+*.xml.tmp
+tripinfo.xml
+summary.xml
+queue.xml
+emissions.xml
+fcd.xml
+*.sqlite
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local editor settings
+.vscode/
+
+# SUMO simulation output
+tripinfo.xml
+maps/tripinfo.xml
+maps/outputs.out
+
+# Backup and diagnostic model files
+models/*backup*.bin
+models/diagnostic_test*.bin
+models/safety_test.bin
+
+# Keep only selected reproducible evaluation results
+# Uncomment the next line if you do not want to publish raw CSV results
+# safety_results/*.csv

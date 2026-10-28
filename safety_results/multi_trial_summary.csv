@@ -1,0 +1,2 @@
+model,trials,total_waiting_time_mean,total_waiting_time_std_dev,unique_lane_waiting_time_mean,unique_lane_waiting_time_std_dev,raw_ttc_observations_mean,raw_ttc_observations_std_dev,grouped_candidate_encounters_mean,grouped_candidate_encounters_std_dev,hard_deceleration_observations_mean,hard_deceleration_observations_std_dev
+safety_v2,1,24873987.0,0.0,8291329.0,0.0,917.0,0.0,413.0,0.0,1.0,0.0

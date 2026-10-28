@@ -1,0 +1,2 @@
+model,trial,seed,simulation_steps,total_waiting_time,unique_lane_waiting_time,raw_ttc_observations,grouped_candidate_encounters,hard_deceleration_observations
+safety_v2,1,101,600,24873987.0,8291329.0,917,413,1
